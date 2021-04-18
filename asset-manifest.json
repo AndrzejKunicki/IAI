@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/IAI/static/css/main.0b0f6276.chunk.css",
+    "main.js": "/IAI/static/js/main.369690f8.chunk.js",
+    "main.js.map": "/IAI/static/js/main.369690f8.chunk.js.map",
+    "runtime-main.js": "/IAI/static/js/runtime-main.73e72d0f.js",
+    "runtime-main.js.map": "/IAI/static/js/runtime-main.73e72d0f.js.map",
+    "static/css/2.b57b7cfd.chunk.css": "/IAI/static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.ee53f8de.chunk.js": "/IAI/static/js/2.ee53f8de.chunk.js",
+    "static/js/2.ee53f8de.chunk.js.map": "/IAI/static/js/2.ee53f8de.chunk.js.map",
+    "index.html": "/IAI/index.html",
+    "static/css/2.b57b7cfd.chunk.css.map": "/IAI/static/css/2.b57b7cfd.chunk.css.map",
+    "static/css/main.0b0f6276.chunk.css.map": "/IAI/static/css/main.0b0f6276.chunk.css.map",
+    "static/js/2.ee53f8de.chunk.js.LICENSE.txt": "/IAI/static/js/2.ee53f8de.chunk.js.LICENSE.txt",
+    "static/media/ItemCard.scss": "/IAI/static/media/ok.b504c064.svg",
+    "static/media/silver.5973b9bb.jpg": "/IAI/static/media/silver.5973b9bb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73e72d0f.js",
+    "static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.ee53f8de.chunk.js",
+    "static/css/main.0b0f6276.chunk.css",
+    "static/js/main.369690f8.chunk.js"
+  ]
+}
