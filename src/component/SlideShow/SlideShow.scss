@@ -1,0 +1,19 @@
+.each_slide > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 350px;
+  /* width: 100px; */
+}
+
+.each_slide img {
+  width: 100%;
+}
+.slider {
+  width: 316px;
+  @media screen and (max-width: 767px) {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
